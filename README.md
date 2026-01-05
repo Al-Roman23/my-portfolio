@@ -3,7 +3,6 @@
 Welcome to my personal portfolio repository! This project showcases my skills, experience, and projects as a Full Stack Developer (MERN) and CS Student.
 
 ![Portfolio Preview](src/assets/Al-Roman.jpg) 
-*(Note: Preview image path is local, update to a hosted image URL after deployment)*
 
 ## 🚀 Live Demo
 **[Visit Portfolio Website](https://your-vercel-url.app)** *(Update this link after deployment)*
